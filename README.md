@@ -69,5 +69,5 @@ Additional Columns
 2. Analisis Inferensial: chi-square (untuk melihat hubungan antara dua variabel kategorikal)
 
 ## __5. Kesimpulan dan Rekomendasi__
-Selengkapnya pada Jupiter notebook
+Selengkapnya pada Jupyter notebook
 
