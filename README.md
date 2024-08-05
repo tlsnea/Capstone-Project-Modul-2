@@ -16,7 +16,7 @@ PT Transportasi Jakarta ingin memperoleh informasi mengenai aktivitas Transjakar
 2. Pola dan preferensi pelanggan
 3. Aktivitas sistem transportasi seperti, koridor dan halte: efektifitas dan efisiensi sistem
 
----
+
 ## __2. Keterangan Kolom__
 |No| Nama Kolom | Keterangan |
 |--|------------|------------|
@@ -43,7 +43,7 @@ PT Transportasi Jakarta ingin memperoleh informasi mengenai aktivitas Transjakar
 |21| tapOutTime| Waktu keluar. Tanggal dan waktu|
 |22| payAmount| umlah yang dibayar pelanggan. Beberapa gratis. Beberapa tidak.
 
-## __Data Cleaning and Transformaation Summary__
+## __3. Data Cleaning and Transformaation Summary__
 1. Ubah tipe data
 2. Imputasi missing value
 3. Drop missing value
@@ -64,10 +64,10 @@ Additional Columns
 |8| custTripFreq | Frekuensi perjalanan dalam sebulan|
 |9| rfm_level | Segmentasi berdasarkan resensi, frekuensi, dan monetary pelanggan dalam sebulan|
 
-## __3. Analysis Summary__
+## __4. Analysis Summary__
 1. Analisis Deskriptif
 2. Analisis Inferensial: chi-square (untuk melihat hubungan antara dua variabel kategorikal)
 
-## __4. Kesimpulan dan Rekomendasi__
+## __5. Kesimpulan dan Rekomendasi__
 Selengkapnya pada Jupiter notebook
 
